@@ -9,4 +9,12 @@ entries:
     urls:
     - https://github.com/rpanzer-aviatrix/chart-test/releases/download/mytest-1.2.3/mytest-1.2.3.tgz
     version: 1.2.3
-generated: "2025-09-09T07:32:51.141257243Z"
+  - apiVersion: v2
+    created: "2025-09-09T07:48:18.697283643Z"
+    description: A Helm chart for testing
+    digest: 276115ed96110d8d3f8b5ed6f3fd4a92abc3e32cea74b4ef49e847939a261d0d
+    name: mytest
+    urls:
+    - https://github.com/rpanzer-aviatrix/chart-test/releases/download/mytest-1.1.0/mytest-1.1.0.tgz
+    version: 1.1.0
+generated: "2025-09-09T07:48:18.697290466Z"
