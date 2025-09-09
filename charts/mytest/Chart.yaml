@@ -1,0 +1,4 @@
+apiVersion:  v2
+name: mytest
+description: A Helm chart for testing
+version:  1.2.3
